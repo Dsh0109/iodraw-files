@@ -18,8 +18,14 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-3" value="互联网消费平台数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zeTp5nK6n5bLxlHWD0cT-4" target="zeTp5nK6n5bLxlHWD0cT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-4" value="数据采集与整合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
