@@ -125,7 +125,7 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-58" value="客户实时行为数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zeTp5nK6n5bLxlHWD0cT-59" value="银行内部数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-59" value="市场动态" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
