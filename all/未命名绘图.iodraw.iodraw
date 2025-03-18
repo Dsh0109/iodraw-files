@@ -69,8 +69,14 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-19" value="是否收敛或达到迭代次数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1140" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zeTp5nK6n5bLxlHWD0cT-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zeTp5nK6n5bLxlHWD0cT-21" target="zeTp5nK6n5bLxlHWD0cT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-21" value="客户细分群体" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-23" value="客户细分群体" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
