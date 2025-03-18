@@ -70,6 +70,11 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zeTp5nK6n5bLxlHWD0cT-19" target="zeTp5nK6n5bLxlHWD0cT-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeTp5nK6n5bLxlHWD0cT-22">
+          <mxGeometry x="-0.0545" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-19" value="是否收敛或达到迭代次数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1140" width="140" height="120" as="geometry" />
         </mxCell>
