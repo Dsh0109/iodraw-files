@@ -50,6 +50,9 @@
             <mxGeometry x="390" y="530" width="30" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
