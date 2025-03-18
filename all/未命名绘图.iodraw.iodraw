@@ -122,6 +122,9 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-57" value="机器学习算法&lt;div&gt;数据分析技术&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zeTp5nK6n5bLxlHWD0cT-58" target="zeTp5nK6n5bLxlHWD0cT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-58" value="客户实时行为数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
