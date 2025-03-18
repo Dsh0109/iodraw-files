@@ -51,7 +51,7 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-13" value="计算距离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zeTp5nK6n5bLxlHWD0cT-15" value="计算距离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-15" value="分配客户到簇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
