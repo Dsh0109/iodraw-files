@@ -51,8 +51,14 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-13" value="计算距离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zeTp5nK6n5bLxlHWD0cT-15" target="zeTp5nK6n5bLxlHWD0cT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-15" value="分配客户到簇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-17" value="重新计算聚类中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
