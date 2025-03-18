@@ -39,8 +39,14 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-10" value="确定聚类数量K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zeTp5nK6n5bLxlHWD0cT-11" value="确定聚类数量K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zeTp5nK6n5bLxlHWD0cT-11" target="zeTp5nK6n5bLxlHWD0cT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-11" value="初始化聚类中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-13" value="初始化聚类中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
