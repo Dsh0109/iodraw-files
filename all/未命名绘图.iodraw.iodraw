@@ -81,8 +81,14 @@
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-23" value="轮廓系数评估" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zeTp5nK6n5bLxlHWD0cT-25" target="zeTp5nK6n5bLxlHWD0cT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zeTp5nK6n5bLxlHWD0cT-25" value="轮廓系数评估" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zeTp5nK6n5bLxlHWD0cT-27" value="调整聚类参数" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
